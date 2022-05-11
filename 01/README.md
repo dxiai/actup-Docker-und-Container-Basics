@@ -13,12 +13,9 @@ Docker ist eines der am weitesten verbreiteten Container-Management-Systeme. Mit
 
 Auf den ersten Blick scheint Docker eine auf Entwickler fokussierte Anwendung zu sein. Aus der Sicht eines IT-Entscheiders handelt es sich jedoch definitiv um ein strategisches Instrument zur Optimierung moderner Anwendungsbereitstellungen. Docker ermöglicht die Portabilität einer Anwendung sicherzustellen und erhöht die Verfügbarkeit und verringert das Gesamtrisiko (Quelle : https://de.cloudflight.io/presse/docker-container-die-zukunft-moderner-applikationen-und-multi-cloud-deployments-34709/).
 
-Gedanken und Fragen, die sich während der Auseinandersetzung mit diesem Thema ergeben:
-- *Was ist eine Virtuelle Maschine?* 
-- *Was ist ein Container?*
-
-
-
 
 ## Übung
-- Keine
+
+- *Was ist eine Virtuelle Maschine?* 
+- *Was ist ein Container?*
+- *Nenne jeweils 3 Vor- und Nachteile zu Docker*

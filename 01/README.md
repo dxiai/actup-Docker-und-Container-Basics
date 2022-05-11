@@ -1,5 +1,5 @@
 # Daten und Informatik
-Das Modul Daten und Informatik wird im Bachelor Applied Digital Life Sciences von Herrn Dr. Christian Glahn an der Zürcher Hochschule für angewandte Wissenschaften (ZHaW) unterrihtet.
+Das Modul Daten und Informatik wird im Bachelor Applied Digital Life Sciences von Herrn Dr. Christian Glahn an der Zürcher Hochschule für angewandte Wissenschaften (ZHaW) unterrichtet.
 
 ## Lektion 01: Docker - Grundlagen
 
@@ -13,6 +13,9 @@ Docker ist eines der am weitesten verbreiteten Container-Management-Systeme. Mit
 
 Auf den ersten Blick scheint Docker eine auf Entwickler fokussierte Anwendung zu sein. Aus der Sicht eines IT-Entscheiders handelt es sich jedoch definitiv um ein strategisches Instrument zur Optimierung moderner Anwendungsbereitstellungen. Docker ermöglicht die Portabilität einer Anwendung sicherzustellen und erhöht die Verfügbarkeit und verringert das Gesamtrisiko (Quelle : https://de.cloudflight.io/presse/docker-container-die-zukunft-moderner-applikationen-und-multi-cloud-deployments-34709/).
 
+
+**Schöne neue Docker-Welt**
+Wer Docker einmal ausprobiert und kennengelernt hat, will nie wieder auf seine Funktionen verzichten.
 
 ## Übung
 
